@@ -6,9 +6,9 @@ This repo lists recent advantages on Vision Language Models (VLMs), mainly contr
 
 
 
-| Model            | Vision Enc.          | Textual Enc.       | Dec. | Pretraining Objectives | Exp. Tasks                 | Published Year |   
-|:----------------:|:--------------------:|:------------------:|:-------:|:-----------------------:|:----------------------:|:--------------:|
-|  [ViLBERT](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf)  | OD(*I*)->Xformer       |  *T*->Xformer        |    /    | MLM + ITM + MIM         |                        |  2019 (NIPS)   |
+| Model            | Vision Enc.          | Textual Enc.       | Dec.    | Pretraining Objectives  | Exp. Tasks                 | Published Year |   
+|:----------------:|:--------------------:|:------------------:|:-------:|:-----------------------:|:--------------------------:|:--------------:|
+|  [ViLBERT](https://proceedings.neurips.cc/paper/2019/file/c74d97b01eae257e44aa9d5bade97baf-Paper.pdf)  | OD(*I*)->Xformer     |  *T*->Xformer      |    /    | MLM + ITM + MIM         |                            |  2019 (NIPS)   |
 |          |   |   |   |   |   |   |
 
 
