@@ -1,6 +1,6 @@
 # <center> Papers about Vision Language Models</center>
 
-This repo lists recent advantages on Vision Language Models (VLMs), mainly contributed by [Ji Qi](https://github.com/qijimrc) and [Weihan Wang](https://github.com/weihang-wang).
+This repo lists recent advantages on VLMs, mainly contributed by [Ji Qi](https://github.com/qijimrc) and [Weihan Wang](https://github.com/weihang-wang).
 
 ## Papers
 
